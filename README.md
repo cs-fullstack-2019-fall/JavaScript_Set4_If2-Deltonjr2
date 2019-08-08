@@ -1,4 +1,9 @@
 # JavaScript_Classwork4_If2
+
+Good start! 0.5/3 questions correct 
+Score : 2 points 
+Make sure to study up on conditionals and variables 
+
 ### Create a new file for each exercise
 
 #### Exercise 10
